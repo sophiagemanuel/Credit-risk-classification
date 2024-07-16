@@ -1,5 +1,3 @@
-# Credit-risk-classification
-
 # Module 20 Report
 
 # Overview of the Analysis
