@@ -35,9 +35,13 @@ The data used in this analysis can be found in the Credit-Risk Resources file un
 ### Accuracy, Precision, and Recall Scores
 
 -**Accuracy:** 99%
+
 -**Precision for class 0 (healthy loan):** 100%
+
 -**Recall for class 0 (healthy loan):** 99%
+
 -**Precision for class 1 (high-risk loan):** 85%
+
 -**Recall for class 1 (high-risk loan):** 91%
 
 # Summary
